@@ -1,0 +1,11 @@
+/*
+ primario :#F0FF42
+ secundario :#82CD47
+ light: #54B435
+ info: #379237 */
+.text-light{
+    color:#54B435;
+}
+.bg-primary{
+    background-color:#F0FF42 ;
+}
