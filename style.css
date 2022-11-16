@@ -9,3 +9,27 @@
 .bg-primary{
     background-color:#F0FF42 ;
 }
+.textcenter{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.width-100
+{
+    width: 100px;
+}
+.bg-info{
+    background-color: #F0FF42;
+}
+.text-primary{
+    color: #54B435;
+}
+.text-white{
+    color: orange;
+}
+.bg-secundary
+{
+    background-color:#F0FF42 ;
+    color: #54B435;
+}
